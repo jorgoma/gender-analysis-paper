@@ -5,7 +5,7 @@ This project contains:
                 
 -Three csv files with clean anonymised data on ARUK's grant application process outcomes, scores from peer reviewers, and scores from Grant Review Board members.
  
--Power BI file with some descriptive analysis on data cleaned in R.
+-Power BI files with some descriptive analysis and visualisations of data cleaned in R.
 
 
 Info on how to replicate the Dimensions download:
