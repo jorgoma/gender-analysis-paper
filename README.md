@@ -16,3 +16,7 @@ Info on how to replicate the Dimensions download:
                 
                 Country of Affiliation: UK, USA, Canada, Australia, Germany, Italy, Spain, France, or Sweden
                 
+ Raw files can be found on zenodo: https://zenodo.org/record/6535739#.YpeKhe7MKUk (too big for github!)
+ 
+ 
+                
